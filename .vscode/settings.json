@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "vector.h": "c",
+        "backtrack.h": "c",
+        "analyze.h": "c",
+        "tiers.h": "c",
+        "sort.h": "c",
+        "shrink.h": "c",
+        "rank.h": "c",
+        "print.h": "c",
+        "stdint.h": "c",
+        "learn.h": "c",
+        "deduce.h": "c",
+        "stdbool.h": "c",
+        "__bit_reference": "c",
+        "initializer_list": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}
